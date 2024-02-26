@@ -1,0 +1,2811 @@
+body{
+    margin: 0;
+    padding: 0;
+    height:100%;
+    width: 100%;
+  
+}
+
+*{
+    box-sizing: border-box;
+}
+.home ,.background,.Family,.navwork,.projectd{
+    color: #FFF;
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Corinthia', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #FFF;
+    
+}
+.home ,.background,.Family,.navwork,.projectd{
+    color: #FFF;
+    text-decoration: none;
+}
+.navs{
+    position: relative;
+    left: 200px;
+    display: flex;
+    gap: 25px;
+    width: fit-content;
+}
+.home:hover ,.background:hover,.Family:hover,.navwork:hover,.projectd:hover,.futhome:hover,.futabout:hover,.futcontact:hover,.futprivacy:hover,.futterms:hover{
+    color: #5DBE8C;
+    transition: 1s;
+    
+}
+.futhome,.futabout,.futcontact,.futprivacy,.futterms{
+    color: #FFF;
+    text-decoration: none;
+}
+.firstmaindiv{
+    height: 770px;
+}
+.solid1{
+    width: 100%;
+height: 768px;
+flex-shrink: 0;
+background: url(<path-to-image>), rgb(0, 0, 0) 0px 0px / 100% 118.576% no-repeat;
+}
+.paragraf{
+    width: 800px;
+    height: 600px;
+    position: absolute;
+    top: 420px;
+    left: 150px;
+}
+.James{
+    color: #FFF;
+font-family: 'Archivo Black', sans-serif;
+font-family: 'Corinthia', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Permanent Marker', cursive;
+font-size: 80px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: relative;
+top: -240px;
+}
+.Thomas{
+    color: #FFEB5C;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 146px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: relative;
+top: -260px;
+}
+.fun{
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 42px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: relative;
+top: -300px;
+width: 560px;
+}
+.spanfun{
+    color: #5DBE8C;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+.yellowdiv{
+    width: 230px;
+height: 60px;
+flex-shrink: 0;
+border-radius: 7px;
+background: #FFEB5C;
+box-shadow: -3px -3px 0px 0px rgba(0, 0, 0, 0.30) inset;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+top: -300px;
+cursor: pointer;
+}
+.yellowdiv:hover{
+    background: yellow;
+    transition: 3s;
+}
+
+.hirep{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.spanMe{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.pinkdiv{
+    width: 194px;
+height: 60px;
+flex-shrink: 0;
+border-radius: 7px;
+background: #CB75BD;
+box-shadow: -3px -3px 0px 0px rgba(0, 0, 0, 0.30) inset;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+top: -360px;
+left: 300px;
+cursor: pointer;
+}
+.pinkdiv:hover{
+    background: rgb(253, 49, 202);
+    transition: 3s;
+}
+.portfolio{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.spansee{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.greenbackground{
+    width: 412px;
+height: 596px;
+flex-shrink: 0;
+border-radius: 268px 268px 0px 0px;
+background: #5DBE8C;
+position: relative;
+top: -600px;
+left: 800px;
+}
+.elegantman{
+    position: relative;
+    top: -1302px;
+    left: 770px;
+}
+.greensection{
+    width: 100%;
+height: 220px;
+flex-shrink: 0;
+background: #5DBE8C;
+position: relative;
+top: -60px;
+}
+.minigreen{
+    width: 764px;
+height: 180px;
+flex-shrink: 0;
+position: relative;
+left: 380px;
+top: 10px;
+}
+.firstgroup{
+    width: 114px;
+height: 89px;
+flex-shrink: 0;
+}
+.seven{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 54px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.experience{
+    color: #000;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; 
+position: relative;
+top: -30px;
+left: -20px;
+}
+.spanexperience{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+}
+.line{
+    position: relative;
+    left: 200px;
+    top: -65px;
+}
+.secondgroup{
+    width: 114px;
+    height: 89px;
+    flex-shrink: 0;
+    position: relative;
+    left: 300px;
+    top: -160px;
+}
+.fifty{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 54px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.complete{
+    color: #000;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; 
+position: relative;
+top: -30px;
+left: -20px;
+}
+.spanprojects{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+}
+.line1{
+    position: relative;
+    left: 480px;
+    top: -230px;
+}
+.thirdgroup{
+    width: 114px;
+    height: 89px;
+    flex-shrink: 0;
+    position: relative;
+    left: 600px;
+    top: -325px;
+}
+.thirty{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 54px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.Happy{
+    color: #000;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; 
+position: relative;
+top: -30px;
+left: -20px;
+}
+.customer{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+
+}
+
+    .secondmaindiv{
+        width: 100%;
+        height: 1068px;
+        flex-shrink: 0;
+        position: relative;
+        top: 1300px;
+    }
+.solid2{
+    width: 100%;
+    height: 1068px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), rgb(0, 0, 0) 0px 0px / 100% 118.576% no-repeat;
+    position: relative;
+    top: -1370px;
+}
+.Screenshot{
+    position: relative;
+    top: -2200px;
+    background: url(<path-to-image>), rgb(0, 0, 0) 0px 0px / 100% 118.576% no-repeat;
+    width: 700px;
+    left: 50px;
+}
+.title{
+    width: 490px;
+height: 651px;
+flex-shrink: 0;
+position: relative;
+top: -2800px;
+left: 800px;
+}
+.maintitlediv{
+    width: 464px;
+height: 164px;
+flex-shrink: 0;
+}
+.Professional{
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 54px;
+font-style: normal;
+font-weight: 600;
+line-height: 60px;
+}
+.Sed{
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; 
+}
+.data1{
+    width: 412px;
+height: 59px;
+flex-shrink: 0;
+position: relative;
+top: 60px;
+}
+.datap{
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px; 
+}
+.Lorem{
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+opacity: 0.8;
+}
+.zeroone{
+    width: 44px;
+height: 44px;
+flex-shrink: 0;
+border-radius: 2px;
+background: #CB75BD;
+position: relative;
+left: -50px;
+top: -80px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.pzero{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px; 
+}
+.data2{
+    width: 412px;
+    height: 59px;
+    flex-shrink: 0;
+    position: relative;
+    top: 100px;
+}
+.mobile{
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px; 
+}
+.ipsum{
+    width: 412px;
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    opacity: 0.8;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+}
+.zerotwo{
+    width: 44px;
+    height: 44px;
+    flex-shrink: 0;
+    border-radius: 2px;
+    background: #5DBE8C;
+    position: relative;
+    left: -50px;
+    top: -80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ptwo{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px; 
+
+}
+.data3{
+    width: 412px;
+    height: 59px;
+    flex-shrink: 0;
+    position: relative;
+    top: 160px;
+}
+.process{
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px; 
+}
+.is{
+    color: #FFF;
+    width: 412px;
+    opacity: 0.8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; 
+}
+.zerothree{
+    width: 44px;
+    height: 44px;
+    flex-shrink: 0;
+    border-radius: 2px;
+    background: #5D6CBE;
+    position: relative;
+    left: -50px;
+    top: -80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pthree{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px; 
+}
+.thirdmaindiv{
+    width: 100%;
+    height: 900px;
+    background: #5DBE8C;
+    position: relative;
+    top: -130px;
+}
+.thefirst{
+    width: 874px;
+height: 136px;
+flex-shrink: 0;
+position: relative;
+left: 360px;
+top: 100px;
+}
+.FamBackground{
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px; 
+    position: relative;
+    top: -50px;
+    left: 200px;
+}
+.tl{
+    color: rgba(0, 0, 0, 0.60);
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px; 
+position: relative;
+top: -20px;
+}
+.rectanglediv{
+    position: relative;
+    top: 100px;
+    height: 700px;
+}
+
+.rect1{
+    width: 328.852px;
+height: 446px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat, url(<path-to-image>), lightgray 50% / cover no-repeat, #D9D9D9;
+filter: blur(2px);
+position: relative;
+top: 50px;
+left: 10px;
+border-radius: 10%;
+}
+.rect1:hover{
+
+    filter: blur(0);
+    transition: 3s;
+    cursor: pointer;
+}
+.rect2{
+    width: 328.852px;
+    height: 446px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat, url(<path-to-image>), lightgray 50% / cover no-repeat, #D9D9D9;
+    filter: blur(2px);
+    position: relative;
+    top: 50px;
+    left: 50px;
+    border-radius: 10%;
+}
+.rect2:hover{
+    
+    filter: blur(0);
+    transition: 3s;
+    cursor: pointer;
+}
+.rect3{
+    width: 328.852px;
+    height: 446px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat, url(<path-to-image>), lightgray 50% / cover no-repeat, #D9D9D9;
+    filter: blur(2px);
+    position: relative;
+    top: 50px;
+    left: 100px;
+    border-radius: 10%;
+}
+.rect3:hover{
+  
+    filter: blur(0);
+    transition: 3s;
+    cursor: pointer;
+}
+.rect4{
+    width: 328.852px;
+    height: 446px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat, url(<path-to-image>), lightgray 50% / cover no-repeat, #D9D9D9;
+    filter: blur(2px);
+    position: relative;
+    top: 50px;
+    left: 140px;
+    border-radius: 10%;   
+}
+.rect4:hover{
+
+        filter: blur(0);
+    transition: 3s;
+    cursor: pointer;
+}
+.forthmaindiv{
+    width: 100%;
+    height: 870px;
+}
+.solid3{
+    width: 100%;
+    height: 1000px;
+    background: url(<path-to-image>), rgb(0, 0, 0) 0px 0px / 100% 118.576% no-repeat;
+    position: relative;
+    top: -130px;
+}
+.titled{
+    width: 874px;
+height: 108px;
+flex-shrink: 0;
+position: relative;
+left: 300px;
+top: -1030px;
+}
+.latestwork{
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px; 
+    position: relative;
+    top: -50px;
+    left: 130px;
+}
+.spanwork{
+    color: #5DBE8C;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 54px;
+font-style: normal;
+font-weight: 600;
+line-height: 60px;
+}
+.randomlorem{
+    width: 876px;
+    color: rgba(255, 255, 255, 0.60);
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px; 
+position: relative;
+top: -70px;
+}
+.newdiv{
+    width: 746px;
+height: 710px;
+flex-shrink: 0;
+border-radius: 21px;
+background: #FFF;
+box-shadow: -8px -8px 0px 0px rgba(0, 0, 0, 0.30) inset;
+position: relative;
+top: -1050px;
+left: 400px;
+}
+.rect5{
+    width: 630px;
+height: 350px;
+flex-shrink: 0;
+border-radius: 14px;
+border: 1px solid #B3B3B3;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+position: relative;
+left: 55px;
+top: 10px;
+}
+.Analysis{
+    color: #000;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px; 
+}
+.loremhistory{
+    width: 480px;
+    color: #000;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; 
+position: relative;
+top: -30px;
+left: 120px;
+}
+.rezon{
+    width: 184px;
+height: 48px;
+flex-shrink: 0;
+border-radius: 7px;
+background: #5DBE8C;
+box-shadow: -3px -3px 0px 0px rgba(0, 0, 0, 0.30) inset;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+top: -40px;
+left: 280px;
+cursor: pointer;
+}
+.rezon:hover{
+    background-color: rgb(54, 133, 54);
+    transition: 3s;
+}
+.viewp{
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.spanmore{
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.fifthmaindiv{
+    width: 100%;
+height: 800px;
+flex-shrink: 0;
+background-color: #5DBE8C;
+}
+.maininputdiv{
+    width: 510px;
+height: 740px;
+top: 30px;
+flex-shrink: 0;
+border-radius: 36px 36px 0px 0px;
+border: 1px solid rgba(255, 255, 255, 0.55);
+background: rgba(255, 255, 255, 0.13);
+backdrop-filter: blur(17.200000762939453px);
+position: relative;
+left: 700px;
+z-index: 10;
+}
+.needhelp{
+    color: #FFF;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 41px; 
+}
+.inpname{
+    width: 342px;
+height: 56px;
+flex-shrink: 0;
+border-radius: 7px;
+border: 1px solid #FFF;
+color: #FFF;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px; 
+border-radius: 20px;
+border: 1px solid rgba(255, 255, 255, 0.55);
+background: rgba(255, 255, 255, 0.13);
+backdrop-filter: blur(17.200000762939453px);
+position: relative;
+left: 80px;
+}
+.inpname1{
+    width: 342px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 7px;
+    border: 1px solid #FFF;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; 
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.55);
+    background: rgba(255, 255, 255, 0.13);
+    backdrop-filter: blur(17.200000762939453px);
+    position: relative;
+    left: 80px; 
+    top: 20px;
+}
+.inpname2{
+    width: 342px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 7px;
+    border: 1px solid #FFF;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; 
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.55);
+    background: rgba(255, 255, 255, 0.13);
+    backdrop-filter: blur(17.200000762939453px);
+    position: relative;
+    left: 80px;
+    top: 40px;
+}
+.inpname3{
+    width: 342px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 7px;
+    border: 1px solid #FFF;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; 
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.55);
+    background: rgba(255, 255, 255, 0.13);
+    backdrop-filter: blur(17.200000762939453px);
+    position: relative;
+    left: 80px;
+    top: 60px;
+}
+.inpname4{
+    width: 342px;
+height: 168px;
+flex-shrink: 0;
+border-radius: 7px;
+border: 1px solid #FFF;
+color: #FFF;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px; 
+border-radius: 20px;
+border: 1px solid rgba(255, 255, 255, 0.55);
+background: rgba(255, 255, 255, 0.13);
+backdrop-filter: blur(17.200000762939453px);
+position: relative;
+left: 80px;
+top: 100px;
+}
+.submitdiv{
+    width: 136px;
+height: 52px;
+flex-shrink: 0;
+border-radius: 7px;
+background: #FFF;
+box-shadow: -3px -3px 0px 0px rgba(0, 0, 0, 0.30) inset;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+top: 130px;
+left: 180px;
+color: #5DBE8C;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.submitdiv:active{
+   transform: scale(0.8);
+}
+
+.discuss{
+    width: 700px;
+    height: 500px;
+    position: relative;
+    top: -600px;
+    left: 100px;
+}
+.pdiscuss{
+    width: 500px;
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 54px;
+font-style: normal;
+font-weight: 600;
+line-height: 70px; 
+}
+.uhhanotherlorem{
+    width: 500px;
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; 
+}
+.ellipseabsolute{
+    width: 100px;
+    height: 100px;
+    flex-shrink: 0;
+    fill: #FFEB5C;
+    position: absolute;
+    left: 1170px;
+    top: 4100px;
+}
+.ellipse{
+    width: 152px;
+height: 152px;
+flex-shrink: 0;
+fill: #FFEB5C;
+position: relative;
+left: 520px;
+top: 10px;
+}
+.footer{
+    width: 100%;
+    height: 600px;
+    background: #000;
+}
+.thisuix{
+    position: relative;
+    left: 200px;
+    top: 100px;
+}
+.footerlorem{
+    width: 456.647px;
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; 
+position: relative;
+top: 100px;
+left: 180px;
+opacity: 0.7;
+}
+.footerpages{
+    width: 80px;
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px; 
+opacity: 0.7;
+
+}
+.footdiv{
+    width: 80px;
+    height:100px;
+    position: relative;
+    left: 900px;
+    top: -130px;
+}
+.Page{
+    width: 100px;
+    color: #FFF;
+font-size: 24px;
+font-style: normal; 
+font-weight: 700;
+line-height: normal;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.privacy{
+    width: 216px;
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px; 
+opacity: 0.7;
+
+}
+.landpage{
+    width: 100px;
+    color: #FFF;
+font-size: 24px;
+font-style: normal; 
+font-weight: 700;
+line-height: normal;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.landfoot{
+    width: 216px;
+    height: 130px;
+    position: relative;
+    left: 1200px;
+    top: -230px;
+
+}
+.xazi{
+    width: 1300px;
+    height: 2px;
+    background-color: #FFF;
+    opacity: 0.2;
+    position: relative;
+    top: -80px;
+    left: 150px;
+}
+.thisuix2{
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px; 
+position: relative;
+top: -50px;
+left: 700px;
+width: 400px;
+}
+@media  screen and (max-width: 1024px){
+    .home ,.background,.Family,.navwork,.projectd{
+        font-size: 32px;
+}
+.navs{
+    left: 0;
+}
+.paragraf{
+    left: 0;
+}
+.greenbackground{
+    left: 550px;
+    top: -650px;
+}
+.elegantman{
+    left: 520px;
+    top: -1350px;
+}
+.minigreen{
+    left: 120px;
+}
+.Screenshot{
+    left: 0;
+    width: 450px;
+}
+.title{
+    left: 500px;
+    top: -2700px;
+}
+.rect1{
+    left: 100px;
+}
+.rect2{
+    left: 300px;
+}
+.rect3{
+    display: none;
+}
+.rect4{
+    display: none;
+}
+.FamBackground{
+    width: 600px;
+}
+.thefirst{
+    left: 100px;
+}
+.newdiv{
+    left: 140px;
+}
+.titled{
+    left: 80px;
+}
+.discuss{
+    left: 0;
+}
+.uhhanotherlorem{
+    width: 400px;
+}
+.latestwork{
+    width: 700px;
+}
+.maininputdiv{
+    left: 450px;
+}
+.ellipse{
+    left: 380px;
+}
+.ellipseabsolute{
+    left: 900px;
+}
+.footerlorem{
+    left: 30px;
+}
+.thisuix{
+    left: 100px;
+}
+.footdiv{
+    left: 600px;
+}
+.landfoot{
+    left: 750px;
+}
+.xazi{
+    width: 900px;
+    left: 50px;
+}
+.thisuix2{
+    left: 400px;
+}
+}
+@media  screen and (max-width: 768px){
+    .navs{
+        left: 0;
+    }
+    .home ,.background,.Family,.navwork,.projectd{
+        font-size: 22px;
+    }
+    .paragraf{
+        position: relative;
+        width: 500px;
+        top: -1050px;
+        left: 100px;
+    }
+    .James{
+        top: -240px;
+    }
+    .yellowdiv{
+      top: 390px;
+      left: 50px;
+    }
+    .pinkdiv{
+        top: 330px;
+        left: 350px;
+    }
+    .greenbackground{
+        left: 200px;
+        top: -1350px;
+    }
+    .elegantman{
+        left: 180px;
+        top: -2050px;
+    }
+    .greensection{
+        top: 570px;
+    }
+    .minigreen{
+        width: 500px;
+        left: 240px;
+    }
+    .line{
+        left: 100px;
+    }
+    
+    .secondgroup{
+        left: 120px;
+    }
+    .Screenshot{
+        left: 50px;
+    }
+    .line1{
+        left: 220px;
+    }
+    .thirdgroup{
+        left: 240px;
+    }
+    .secondmaindiv{
+        top: -1000px;
+    }
+    .solid1{
+        height: 1400px;
+    }
+    .secondmaindiv{
+        top: 1940px;
+    }
+    .thirdmaindiv{
+        top: 510px;
+        height: 1400px;
+    }
+    .FamBackground{
+        width: 600px;
+        left: 150px;
+    }
+    .tl{
+        left: -10px;
+    }
+    .thefirst{
+        width: 650px;
+        
+    }
+    .rect1{
+        position: relative;
+        top: 100px;
+        left: 220px;
+    }
+    .rect2{
+        display: none;
+    }
+    .rect3{
+        top: 650px;
+        left: -100px;
+    }
+    .rect4{
+     display: none;
+    }
+    .Screenshot{
+        width: 400px;
+        top: -2400px;
+    }
+    .title{
+        left: 100px;
+        top: -2400px;
+    }
+    .thefirst{
+        left: -70px;
+    }
+    .tl{
+        width: 300px;
+        left: 300px;
+    }
+    .forthmaindiv{
+    margin-top: 640px;
+    }
+    .titled{
+       top: -1050px;
+       left: -50px;
+       width: 700px;
+    }
+    .randomlorem{
+        width: 600px;
+        left: 50px;
+    }
+    .newdiv{
+        width: 500px;
+        left: 20px;
+    }
+    .latestwork{
+        font-size: 35px;
+    }
+    .rect5{
+        left: 20px;
+        width: 450px;
+    }
+    .loremhistory{
+        left: 10px;
+    }
+    .rezon{
+        left: 140px;
+    }
+        .fifthmaindiv{
+            height: 1400px;
+        }
+    .discuss{
+        width: 600px;
+        top: -6 00px;
+    }
+    .latestwork{
+        width: 650px;
+    }
+    .ellipse{
+        left: 50px;
+        top: 700px;
+    }
+    .ellipseabsolute{
+        left: 400px;
+        top: 5800px;
+    }
+    .maininputdiv{
+        left: 30px;
+        top: 500px;
+    }
+    .thisuix{
+        top: 0;
+    }
+   .footerlorem{
+    width: 600px;
+   
+    top: 0px;
+   }  
+   .footdiv{
+    left: 30px;
+    top: 50px;
+   }
+   .landfoot{
+    left: 300px;
+    top: -70px;
+    width: 150px;
+   }
+   .privacy{
+    width: 150px;
+   }
+   .xazi{
+    width: 400px;
+    top: 10px;
+    left: 70px;
+   }
+   .thisuix2{
+     left: 140px;
+     top: 20px;
+   }
+}
+@media  screen and (max-width:820px){
+    .navs{
+        left: 0;
+    }
+    .home ,.background,.Family,.navwork,.projectd{
+        font-size: 22px;
+    }
+    .paragraf{
+        position: relative;
+        width: 500px;
+        top: -1050px;
+        left: 100px;
+    }
+    .James{
+        top: -240px;
+    }
+    .yellowdiv{
+      top: 390px;
+      left: 50px;
+    }
+    .pinkdiv{
+        top: 330px;
+        left: 350px;
+    }
+    .greenbackground{
+        left: 200px;
+        top: -1350px;
+    }
+    .elegantman{
+        left: 180px;
+        top: -2050px;
+    }
+    .greensection{
+        top: 570px;
+    }
+    .minigreen{
+        width: 500px;
+        left: 240px;
+    }
+    .line{
+        left: 100px;
+    }
+    
+    .secondgroup{
+        left: 120px;
+    }
+    .Screenshot{
+        left: 50px;
+    }
+    .line1{
+        left: 220px;
+    }
+    .thirdgroup{
+        left: 240px;
+    }
+    .secondmaindiv{
+        top: -1000px;
+    }
+    .solid1{
+        height: 1400px;
+    }
+    .secondmaindiv{
+        top: 1940px;
+    }
+    .thirdmaindiv{
+        top: 510px;
+        height: 1400px;
+    }
+    .FamBackground{
+        width: 600px;
+        left: 150px;
+    }
+    .tl{
+        left: -10px;
+    }
+    .thefirst{
+        width: 650px;
+        
+    }
+    .rect1{
+        position: relative;
+        top: 100px;
+        left: 220px;
+    }
+    .rect2{
+        display: none;
+    }
+    .rect3{
+        top: 650px;
+        left: -100px;
+    }
+    .rect4{
+     display: none;
+    }
+    .Screenshot{
+        width: 400px;
+        top: -2400px;
+    }
+    .title{
+        left: 100px;
+        top: -2400px;
+    }
+    .thefirst{
+        left: -70px;
+    }
+    .tl{
+        width: 300px;
+        left: 300px;
+    }
+    .forthmaindiv{
+    margin-top: 640px;
+    }
+    .titled{
+       top: -1050px;
+       left: -50px;
+       width: 700px;
+    }
+    .randomlorem{
+        width: 600px;
+        left: 50px;
+    }
+    .newdiv{
+        width: 500px;
+        left: 20px;
+    }
+    .latestwork{
+        font-size: 35px;
+    }
+    .rect5{
+        left: 20px;
+        width: 450px;
+    }
+    .loremhistory{
+        left: 10px;
+    }
+    .rezon{
+        left: 140px;
+    }
+        .fifthmaindiv{
+            height: 1400px;
+        }
+    .discuss{
+        width: 600px;
+        top: -6 00px;
+    }
+    .latestwork{
+        width: 650px;
+    }
+    .ellipse{
+        left: 50px;
+        top: 700px;
+    }
+    .ellipseabsolute{
+        left: 400px;
+        top: 5800px;
+    }
+    .maininputdiv{
+        left: 30px;
+        top: 500px;
+    }
+    .thisuix{
+        top: 0;
+    }
+   .footerlorem{
+    width: 600px;
+   
+    top: 0px;
+   }  
+   .footdiv{
+    left: 30px;
+    top: 50px;
+   }
+   .landfoot{
+    left: 300px;
+    top: -70px;
+    width: 150px;
+   }
+   .privacy{
+    width: 150px;
+   }
+   .xazi{
+    width: 400px;
+    top: 10px;
+    left: 70px;
+   }
+   .thisuix2{
+     left: 140px;
+     top: 20px;
+   }
+}
+@media  screen and (max-width:430px){
+    body{
+        height: 100vw;
+    }
+    .home ,.background,.Family,.navwork,.projectd{
+        font-size: 15px;
+    }
+    .solid1{
+        height: 1000px;
+    }
+    .James{
+       font-size: 50px;
+       top: -240px;
+    }
+    .Thomas{
+        font-size: 65px;
+        top: -270px;
+        left: 30px;
+        width: 310px;
+    }
+  
+    .paragraf{
+        top: -700px;
+        left: 20px;
+        width: 390px;
+    }
+    .fun{
+        font-size: 30px;
+        width: 280px;
+        left: 10px;
+    }
+    .greenbackground{
+        display: none;
+    }
+    .elegantman{
+        display: none; 
+    }
+    .pinkdiv{
+        top: -120px;
+        left: 40px;
+        width: 200px;
+    }
+    .yellowdiv{
+        top: -130px;
+        width: 200px;
+        left: 40px;
+    }
+    .greensection{
+        top: 30px;
+    }
+    .line{
+        left: 120px;
+    }
+    .secondgroup{
+        display: none;
+    }
+    .line1{
+        display: none;
+    }.thirdgroup{
+        left: 150px;
+        top: -160px;
+    }
+    .minigreen{
+        width: 300px;
+        left: 50px;
+    }
+    .secondmaindiv{
+        top: 1400px;
+    }
+    .Screenshot{
+        left: 0;
+        width: 300px;
+    }
+    .title{
+        left: 0;
+        width: 400px;
+    }
+    .maintitlediv{
+        width: 400px;
+    }
+    .data1{
+        left: 60px;
+       width: 300px;
+    }
+    .data2{
+        left: 60px;
+        width: 300px;
+    }
+
+    .data3{
+        left: 60px;
+        width: 300px;
+    }
+    .ipsum{
+        width: 300px;
+    }
+    .is{
+        width: 300px;
+    }
+    
+    .FamBackground{
+        font-size: 40px;
+        left: 220px;
+        width: 390px;
+    }
+    .tl{
+        left: 250px;
+    }
+    .thefirst{
+        left: -200px;
+        width: 400px;
+    }
+   
+    .rect1{
+        left: 10px;
+    }
+    .rect2{
+        display: none;
+    }
+    .rect3{
+       display:none;
+    }
+    .rect4{
+          display:none;
+       
+    }
+    .titled{
+        width: 400px;
+    }
+    .thirdmaindiv{
+        top: -10px;
+        height: 1150px;
+    }
+    .newdiv{
+        top: -1600px;
+        left: 5px;
+        width: 400px;
+    }        
+    .rect5{
+        left: 2px;
+        width: 380px;
+    }
+    .solid3{
+        position: relative;
+        top: -700px;
+        
+    }
+    .titled{
+        top: -1650px;
+        left: -100px;
+    }
+    .randomlorem{
+        width: 300px;
+        left: 160px;
+        top: -90px;
+    }
+    .latestwork{
+        font-size: 30px;
+        width: 370px;
+    }
+    .spanwork{
+        font-size: 30px;
+    }
+    .loremhistory{
+        position: relative;
+        width: 370px;
+        top: -30px;
+    }
+    .Analysis{
+        position: relative;
+        top: 0px;
+    }
+    .rezon{
+        top: -40px;
+        left: 100px;
+    }
+   .discuss{
+    left: 0;
+     width: 300px;
+   }
+
+   .pdiscuss{
+   font-size: 50px;
+   width: 300px;
+}
+.fifthmaindiv{
+    position: relative;
+    top: -600px;
+}
+.maininputdiv{
+    left: 2px;
+    width: 400px;
+    top: 600px;
+}
+.inpname{
+    left: 25px;
+}
+.inpname1{
+    left: 25px;
+}
+.inpname2{
+    left: 25px;
+}
+.inpname3{
+    left: 25px;
+}
+.inpname4{
+    left: 25px;
+}
+.ellipse{
+    display: none;
+}
+.ellipseabsolute{
+    display: none;
+}
+.submitdiv{
+    left: 130px;
+}
+   .uhhanotherlorem{
+    width: 370px;
+    position: relative;
+    top: -20px;
+    left: 5px;
+   }
+   .footer{
+    height: 800px;
+    position: relative;
+    top: -600px;
+   }
+  .footerlorem{
+    left: 0;
+    width: 400px;
+  }
+  .thisuix{
+    left: 100px;
+  }
+  .landfoot{
+    left: 200px;
+  }
+  .xazi{
+    width: 300px;
+    left: 50px;
+  }
+  .thisuix2{
+    left: 70px;
+    width: 300px;
+  }
+}
+@media  screen and (max-width:414px){
+    body{
+        width: 100vw;
+        height: 100vw;
+    }
+    .navs{
+        left: -10px;
+    }
+    .home ,.background,.Family,.navwork,.projectd{
+        font-size: 12px;
+    }
+    .solid1{
+        width: 100vw;
+        height: 1000px;
+    }
+    .James{
+       font-size: 50px;
+       top: -240px;
+       width: 370px;
+    }
+    .Thomas{
+        font-size: 65px;
+        top: -270px;
+        left: 30px;
+        width: 310px;
+    }
+  
+    .paragraf{
+        top: -700px;
+        left: 20px;
+        width: 390px;
+    }
+    .fun{
+        font-size: 30px;
+        width: 280px;
+        left: 10px;
+    }
+    .greenbackground{
+        display: none;
+    }
+    .elegantman{
+        display: none; 
+    }
+    .pinkdiv{
+        top: -120px;
+        left: 40px;
+        width: 200px;
+    }
+    .yellowdiv{
+        top: -130px;
+        width: 200px;
+        left: 40px;
+    }
+    .greensection{
+        width: 100vw;
+        top: 30px;
+    }
+    .line{
+        left: 120px;
+    }
+    .secondgroup{
+        display: none;
+    }
+    .line1{
+        display: none;
+    }.thirdgroup{
+        left: 150px;
+        top: -160px;
+    }
+    .minigreen{
+        width: 300px;
+        left: 50px;
+    }
+    .secondmaindiv{
+        top: 1400px;
+    }
+    .Screenshot{
+        left: 0;
+        width: 300px;
+    }
+    .title{
+        left: 0;
+        width: 400px;
+    }
+    .maintitlediv{
+        width: 400px;
+    }
+    .data1{
+        left: 60px;
+       width: 300px;
+    }
+    .data2{
+        left: 60px;
+        width: 300px;
+    }
+
+    .data3{
+        left: 60px;
+        width: 300px;
+    }
+    .ipsum{
+        width: 300px;
+    }
+    .is{
+        width: 300px;
+    }
+    
+    .FamBackground{
+        font-size: 40px;
+        left: 220px;
+        width: 390px;
+    }
+    .tl{
+        left: 250px;
+    }
+    .thefirst{
+        left: -200px;
+        width: 400px;
+    }
+   
+    .rect1{
+        left: 10px;
+    }
+    .rect2{
+        display: none;
+    }
+    .rect3{
+       display:none;
+    }
+    .rect4{
+          display:none;
+       
+    }
+    .titled{
+        width: 400px;
+    }
+    .thirdmaindiv{
+        width: 100vw;
+        top: -10px;
+        height: 1150px;
+    }
+    .newdiv{
+        top: -1600px;
+        left: 0px;
+        width: 400px;
+    }        
+    .rect5{
+        left: 2px;
+        width: 380px;
+    }
+    .solid3{
+        width: 100vw;
+        position: relative;
+        top: -700px;
+        
+    }
+    .titled{
+        top: -1650px;
+        left: -100px;
+    }
+    .randomlorem{
+        width: 300px;
+        left: 160px;
+        top: -90px;
+    }
+    .latestwork{
+        font-size: 30px;
+        width: 370px;
+    }
+    .spanwork{
+        font-size: 30px;
+    }
+    .loremhistory{
+        position: relative;
+        width: 370px;
+        top: -30px;
+    }
+    .Analysis{
+        position: relative;
+        top: 0px;
+    }
+    .rezon{
+        top: -40px;
+        left: 100px;
+    }
+   .discuss{
+    left: 0;
+     width: 300px;
+   }
+
+   .pdiscuss{
+   font-size: 50px;
+   width: 300px;
+}
+.fifthmaindiv{
+    width: 100vw;
+    position: relative;
+    top: -600px;
+}
+.maininputdiv{
+    left: 2px;
+    width: 400px;
+    top: 600px;
+}
+.inpname{
+    left: 25px;
+}
+.inpname1{
+    left: 25px;
+}
+.inpname2{
+    left: 25px;
+}
+.inpname3{
+    left: 25px;
+}
+.inpname4{
+    left: 25px;
+}
+.ellipse{
+    display: none;
+}
+.ellipseabsolute{
+    display: none;
+}
+.submitdiv{
+    left: 130px;
+}
+   .uhhanotherlorem{
+    width: 370px;
+    position: relative;
+    top: -20px;
+    left: 5px;
+   }
+   .footer{
+    width: 100vw;
+    height: 800px;
+    position: relative;
+    top: -600px;
+   }
+  .footerlorem{
+    left: 0;
+    width: 400px;
+  }
+  .thisuix{
+    left: 100px;
+  }
+  .landfoot{
+    left: 200px;
+  }
+  .xazi{
+    width: 300px;
+    left: 50px;
+  }
+  .thisuix2{
+    left: 70px;
+    width: 300px;
+  }
+}
+@media  screen and (max-width:390px){
+    body{
+        height: 100vw;
+    }
+    .home ,.background,.Family,.navwork,.projectd{
+        font-size: 13px;
+    }
+    .solid1{
+        height: 1000px;
+    }
+    .James{
+       font-size: 50px;
+       top: -240px;
+       left: 50px;
+       width: 300px;
+    }
+    .Thomas{
+        font-size: 65px;
+        top: -270px;
+        left: 30px;
+        width: 310px;
+    }
+  
+    .paragraf{
+        top: -700px;
+        left: 10px;
+        width: 350px;
+    }
+    .fun{
+        font-size: 30px;
+        width: 280px;
+        left: 10px;
+    }
+    .greenbackground{
+        display: none;
+    }
+    .elegantman{
+        display: none; 
+    }
+    .pinkdiv{
+        top: -120px;
+        left: 40px;
+        width: 200px;
+    }
+    .yellowdiv{
+        top: -130px;
+        width: 200px;
+        left: 40px;
+    }
+    .greensection{
+        top: 30px;
+    }
+    .line{
+        left: 120px;
+    }
+    .maintitlediv{
+        width: 370px;
+    }
+    .secondgroup{
+        display: none;
+    }
+    .line1{
+        display: none;
+    }.thirdgroup{
+        left: 150px;
+        top: -160px;
+    }
+    .minigreen{
+        width: 300px;
+        left: 50px;
+    }
+    .secondmaindiv{
+        top: 1400px;
+    }
+    .Professional{
+        font-size: 45px;
+    }
+    .Sed{
+        width: 370px;
+    }
+    .Screenshot{
+        left: 0;
+        width: 300px;
+    }
+    .title{
+        left: 0;
+        width: 370px;
+    }
+    .maintitlediv{
+        width: 370px;
+    }
+    .data1{
+        left: 60px;
+       width: 300px;
+    }
+    .data2{
+        left: 60px;
+        width: 300px;
+    }
+
+    .data3{
+        left: 60px;
+        width: 300px;
+    }
+    .ipsum{
+        width: 300px;
+    }
+    .is{
+        width: 300px;
+    }
+    
+    .FamBackground{
+        font-size: 40px;
+        left: 200px;
+        width: 370px;
+        top: -5px;
+    }
+    .tl{
+        left: 250px;
+    }
+    .thefirst{
+        left: -200px;
+        width: 400px;
+    }
+   
+    .rect1{
+        left: 20px;
+    }
+    .rect2{
+        display: none;
+    }
+    .rect3{
+       display:none;
+    }
+    .rect4{
+          display:none;
+       
+    }
+    .titled{
+        width: 300px;
+        left: -10px;
+    }
+    .thirdmaindiv{
+        top: -10px;
+        height: 1150px;
+    }
+   
+    .newdiv{
+        top: -1600px;
+        left: 3px;
+        width: 370px;
+    }        
+    .rect5{
+        left: 5px;
+        width: 350px;
+    }
+    .solid3{
+        position: relative;
+        top: -700px;
+        
+    }
+    .titled{
+        top: -1650px;
+        left: -100px;
+    }
+    .randomlorem{
+        width: 300px;
+        left: 130px;
+        top: -90px;
+    }
+    .latestwork{
+        font-size: 30px;
+        width: 350px;
+        left: 110px;
+    }
+    .spanwork{
+        font-size: 30px;
+    }
+    .loremhistory{
+        position: relative;
+        width: 360px;
+        top: -30px;
+        left: 0;
+    }
+    .Analysis{
+        position: relative;
+        top: 0px;
+    }
+    .rezon{
+        top: -40px;
+        left: 100px;
+    }
+   .discuss{
+    left: 0;
+     width: 300px;
+   }
+
+   .pdiscuss{
+   font-size: 50px;
+   width: 300px;
+}
+.fifthmaindiv{
+    position: relative;
+    top: -600px;
+}
+.maininputdiv{
+    left: 2px;
+    width: 370px;
+    top: 600px;
+}
+.inpname{
+    left: 15px;
+}
+.inpname1{
+    left: 15px;
+}
+.inpname2{
+    left: 15px;
+}
+.inpname3{
+    left: 15px;
+}
+.inpname4{
+    left: 15px;
+}
+.ellipse{
+    display: none;
+}
+.ellipseabsolute{
+    display: none;
+}
+.submitdiv{
+    left: 130px;
+}
+   .uhhanotherlorem{
+    width: 370px;
+    position: relative;
+    top: -20px;
+    left: 5px;
+   }
+   .footer{
+    height: 800px;
+    position: relative;
+    top: -600px;
+   }
+  .footerlorem{
+    left: 0;
+    width: 370px;
+  }
+  .thisuix{
+    left: 100px;
+  }
+  .landfoot{
+    left: 200px;
+  }
+  .xazi{
+    width: 300px;
+    left: 50px;
+  }
+  .thisuix2{
+    left: 70px;
+    width: 300px;
+  }
+}
+@media  screen and (max-width:375px){
+    body{
+        height: 100vw;
+    }
+    .home ,.background,.Family,.navwork,.projectd{
+        font-size: 13px;
+    }
+    .solid1{
+        height: 1000px;
+    }
+    .James{
+       font-size: 50px;
+       top: -240px;
+       width: 300px;
+    }
+    .Thomas{
+        font-size: 65px;
+        top: -270px;
+        left: 30px;
+        width: 310px;
+    }
+  
+    .paragraf{
+        top: -700px;
+        left: 20px;
+        width: 350px;
+    }
+    .fun{
+        font-size: 30px;
+        width: 280px;
+        left: 10px;
+    }
+    .greenbackground{
+        display: none;
+    }
+    .elegantman{
+        display: none; 
+    }
+    .pinkdiv{
+        top: -120px;
+        left: 40px;
+        width: 200px;
+    }
+    .yellowdiv{
+        top: -130px;
+        width: 200px;
+        left: 40px;
+    }
+    .greensection{
+        top: 30px;
+    }
+    .line{
+        left: 120px;
+    }
+    .maintitlediv{
+        width: 370px;
+    }
+    .secondgroup{
+        display: none;
+    }
+    .line1{
+        display: none;
+    }.thirdgroup{
+        left: 150px;
+        top: -160px;
+    }
+    .minigreen{
+        width: 300px;
+        left: 50px;
+    }
+    .secondmaindiv{
+        top: 1400px;
+    }
+    .Professional{
+        font-size: 45px;
+    }
+    .Sed{
+        width: 370px;
+    }
+    .Screenshot{
+        left: 0;
+        width: 300px;
+    }
+    .title{
+        left: 0;
+        width: 370px;
+    }
+    .maintitlediv{
+        width: 370px;
+    }
+    .data1{
+        left: 60px;
+       width: 300px;
+    }
+    .data2{
+        left: 60px;
+        width: 300px;
+    }
+
+    .data3{
+        left: 60px;
+        width: 300px;
+    }
+    .ipsum{
+        width: 300px;
+    }
+    .is{
+        width: 300px;
+    }
+    
+    .FamBackground{
+        font-size: 40px;
+        left: 200px;
+        width: 370px;
+        top: -5px;
+    }
+    .tl{
+        left: 250px;
+    }
+    .thefirst{
+        left: -200px;
+        width: 400px;
+    }
+   
+    .rect1{
+        left: 20px;
+    }
+    .rect2{
+        display: none;
+    }
+    .rect3{
+       display:none;
+    }
+    .rect4{
+          display:none;
+       
+    }
+    .titled{
+        width: 300px;
+        left: -10px;
+    }
+    .thirdmaindiv{
+        top: -10px;
+        height: 1150px;
+    }
+   
+    .newdiv{
+        top: -1600px;
+        left: 3px;
+        width: 370px;
+    }        
+    .rect5{
+        left: 5px;
+        width: 350px;
+    }
+    .solid3{
+        position: relative;
+        top: -700px;
+        
+    }
+    .titled{
+        top: -1650px;
+        left: -100px;
+    }
+    .randomlorem{
+        width: 300px;
+        left: 130px;
+        top: -90px;
+    }
+    .latestwork{
+        font-size: 30px;
+        width: 350px;
+        left: 110px;
+    }
+    .spanwork{
+        font-size: 30px;
+    }
+    .loremhistory{
+        position: relative;
+        width: 360px;
+        top: -30px;
+        left: 0;
+    }
+    .Analysis{
+        position: relative;
+        top: 0px;
+    }
+    .rezon{
+        top: -40px;
+        left: 100px;
+    }
+   .discuss{
+    left: 0;
+     width: 300px;
+   }
+
+   .pdiscuss{
+   font-size: 50px;
+   width: 300px;
+}
+.fifthmaindiv{
+    position: relative;
+    top: -600px;
+}
+.maininputdiv{
+    left: 2px;
+    width: 370px;
+    top: 600px;
+}
+.inpname{
+    left: 15px;
+}
+.inpname1{
+    left: 15px;
+}
+.inpname2{
+    left: 15px;
+}
+.inpname3{
+    left: 15px;
+}
+.inpname4{
+    left: 15px;
+}
+.ellipse{
+    display: none;
+}
+.ellipseabsolute{
+    display: none;
+}
+.submitdiv{
+    left: 130px;
+}
+   .uhhanotherlorem{
+    width: 370px;
+    position: relative;
+    top: -20px;
+    left: 5px;
+   }
+   .footer{
+    height: 800px;
+    position: relative;
+    top: -600px;
+   }
+  .footerlorem{
+    left: 0;
+    width: 370px;
+  }
+  .thisuix{
+    left: 100px;
+  }
+  .landfoot{
+    left: 200px;
+  }
+  .xazi{
+    width: 300px;
+    left: 50px;
+  }
+  .thisuix2{
+    left: 70px;
+    width: 300px;
+  }
+}
+@media  screen and (max-width:360px){
+.James{
+    width: 260px;
+}
+.title{
+    width: 310px;
+}
+.paragraf{
+    width: 330px;
+}
+.maintitlediv{
+    width: 330px;
+}
+.FamBackground{
+    width: 360px;
+}
+.newdiv{
+    width: 350px;
+    height: 760px;
+}
+.rezon{
+    left: 80px;
+}
+.loremhistory{
+    width: 330px;
+    left: 2px;
+}
+.uhhanotherlorem{
+    left: 0;
+    width: 360px;
+}
+.rect5{
+    width: 330px;
+}
+.maininputdiv{
+    width: 350px;
+}
+.inpname{
+    left: 2px;
+}
+.inpname1{
+    left: 2px;
+}
+.inpname2{
+    left: 2px;
+}
+.inpname3{
+    left: 2px;
+}
+.inpname4{
+    left: 2px;
+}
+.submitdiv{
+    left: 100px;
+}
+.footerlorem{
+     width: 350px;
+}
+.landfoot{
+    top: -50px;
+}
+.thisuix2{
+    left: 0;
+}
+.Sed{
+    width: 360px;
+}
+}
+@media  screen and (max-width:280px){
+    .James{
+        width: 230px;
+        font-size: 40px;
+    }
+    .home ,.background,.Family,.navwork,.projectd{
+        font-size: 8px;
+    }
+    .Thomas{
+        font-size: 50px;
+        width: 240px;
+    }
+    .title{
+        width: 280px;
+    }
+    .fun{
+        width: 260px;
+        top: -250px;
+    }
+    .paragraf{
+        width: 260px;
+        font-size: 10px;
+        left: 0;
+    }
+    .maintitlediv{
+        width: 300px;
+        font-size: 30px;
+    }
+    .Professional{
+        width: 280px;
+        font-size: 40px;
+    }
+    .FamBackground{
+        width: 280px;
+        font-size: 30px;
+    }
+    .tl{
+        left: 200px;
+        width: 280px;
+    }
+    .rect1{
+        top: 200px;
+        left: 0;
+        width: 280px;
+        height: 400px;
+        border-radius: 50px;
+    }
+    .minigreen{
+        left: 16px;
+        width: 260px;
+    }
+    .Screenshot{
+        width: 200px;
+    }
+    .data1{
+        top: 150px;
+        width: 200px;
+    }
+    .data2{
+        top: 200px;
+        width: 200px;
+    }
+    .data3{
+        top: 300px;
+        width: 200px;
+    }
+    .datap{
+        width: 200px;
+    }
+    .Lorem{
+        width: 200px;
+    }
+    .mobile{
+        width: 200px;
+    }
+    .ipsum{
+        width: 200px;
+    }
+    .process{
+        width: 200px;
+    }
+    .is{
+        width: 200px;
+    }
+    .latestwork{
+        top: -200px;
+        font-size: 40px;
+        width: 270px;
+    }
+    .spanwork{
+        font-size: 40px;
+    }
+    .randomlorem{
+        font-size: 13px;
+        top: -200px;
+        left: 120px;
+        width: 230px;
+    }
+    .rect5{
+        display: none;
+    }
+    
+    .solid3{
+        height: 1200px;
+    }
+    .forthmaindiv{
+        height: 1000px;
+    }
+    .pdiscuss{
+        width: 280px;
+        font-size: 40px;
+    }
+   
+    .maintitlediv{
+        width: 280px;
+    }
+    .newdiv{
+        width: 260px;
+        height: 560px;
+    }
+    .rezon{
+        left: 40px;
+    }
+    .loremhistory{
+        width: 250px;
+        left: 2px;
+    }
+    .uhhanotherlorem{
+        left: 0;
+        width: 280px;
+    }
+    .rect5{
+        width: 330px;
+    }
+    .maininputdiv{
+        width: 270px;
+        top: 650px;
+
+    }
+    .inpname{
+        left: 35px;
+        width: 200px;
+    }
+    .inpname1{
+        left: 35px;
+        width: 200px;
+    }
+    .inpname2{
+        left: 35px;
+        width: 200px;
+    }
+    .inpname3{
+        left: 35px;
+        width: 200px;
+    }
+    .inpname4{
+        left: 35px;
+        width: 200px;
+    }
+    .discuss{
+        width: 280px;
+    }
+    .needhelp{
+        width: 270px;
+    }
+    .submitdiv{
+        left: 70px;
+    }
+    .thisuix{
+        left: 50px;
+    }
+    .footerlorem{
+         width: 280px;
+    }
+    .landfoot{
+        top: -50px;
+        left: 130px;
+    }
+    .thisuix2{
+        left: 15px;
+        width: 260px;
+    }
+    .xazi{
+        display: none;
+    }
+    .Sed{
+        width: 280px;
+    }
+    }
